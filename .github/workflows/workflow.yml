@@ -1,5 +1,8 @@
 on: push
 
+permissions:
+  contents: write
+
 jobs:
   npm-build:
     name: npn build work
