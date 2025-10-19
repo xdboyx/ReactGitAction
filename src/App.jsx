@@ -28,7 +28,7 @@ function App() {
       </p>
 
       <p className="read-the-docs">
-    Version:2 test
+        Version:1.0
       </p>
     </>
   )
